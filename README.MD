@@ -2,7 +2,7 @@
 
 ---
 
-### Requesitos
+## Requesitos
 
 - [] Deve ser possível criar uma conta
 - [] Deve ser possível buscar o extrato bancário do cliente
